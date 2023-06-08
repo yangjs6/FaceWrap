@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 922450e922e64922898872b93bb2cc6c, type: 3}
+  m_Name: HJ_FaceMap_FLAME
+  m_EditorClassIdentifier: 
+  source: {fileID: 11400000, guid: 21968287e467d5c4dbcfe2e6e8f3a57c, type: 2}
+  target: {fileID: 11400000, guid: 45e37aebcbfee884c9cb35b7f747ac93, type: 2}

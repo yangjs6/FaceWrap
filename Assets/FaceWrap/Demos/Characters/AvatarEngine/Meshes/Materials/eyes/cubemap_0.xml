@@ -1,0 +1,7 @@
+<cubemap>
+	<address coord="u" mode="clamp" />
+    <address coord="v" mode="clamp" />
+    <address coord="w" mode="clamp" />
+    <filter mode="trilinear" />
+    <image name="cubemap_0.dds" layout="verticalcross" /> 
+</cubemap>
